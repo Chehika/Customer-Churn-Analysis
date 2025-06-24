@@ -43,6 +43,8 @@ most churners were on month to month contracts
 ### monthly charges 
 higher monthly charges are associated with higher churn 
 
+## Model Building
+
 ### 1. **Logistic Regression** (with SMOTE)
 | Metric        | Value |
 |---------------|--------|
