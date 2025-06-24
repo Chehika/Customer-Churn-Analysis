@@ -6,6 +6,7 @@ This project analyzes customer churn behaviour in a telecom company using python
 
 ## Objectives
 clean and preprocess the dataset
+
 explore customer behaviour paaterns
 build classification models to predict churn 
 evaluate model performance
@@ -13,6 +14,9 @@ provide business insights and actionable strategies
 
 ## Tools Used 
 **Python** (pandas, seaborn, scikit-learn)
+
 **Google Colab**
+
 **Machine Learning model**: Logistic regression
+
 **Techniques** data scaling, class balancing(SMOTE)
