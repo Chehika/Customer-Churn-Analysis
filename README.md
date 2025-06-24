@@ -62,8 +62,9 @@ higher monthly charges are associated with higher churn
 ## Model Choice
 while random forest achieved slightly better accuracy and precision , **logistic regression** was chosen because:
 
-> higher recall for churn - more likely to detect customer at risk
-> in churn prediction , missing churners is costlier than false positives.
+higher recall for churn - more likely to detect customer at risk
+
+in churn prediction , missing churners is costlier than false positives.
 
 ## Conclusion
 This project highlights how machine learning can effectively predict customer churn and support business decisions. By analyzing telecom data, we identified churn drivers and improved churn detection using SMOTE and logistic regression. The model enables targeted retention strategies, making it a valuable tool for reducing customer loss and boosting revenue.
